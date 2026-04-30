@@ -14,7 +14,7 @@ This project analyzes credit card transaction data to segment customers by spend
 
 ## Dashboard Preview
 
-(<img width="1280" height="723" alt="Customer Spending   Revenue Segmentation Analysis" src="https://github.com/user-attachments/assets/90941620-233b-4d00-8712-26cf602e2ab4" />)
+<img width="1280" height="723" alt="Customer Spending   Revenue Segmentation Analysis" src="https://github.com/user-attachments/assets/90941620-233b-4d00-8712-26cf602e2ab4" />
 
 ---
 
